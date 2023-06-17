@@ -281,3 +281,6 @@ dmypy.json
 cython_debug/
 
 !/.gitignore
+
+# ignore user usage file
+work/
