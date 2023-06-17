@@ -280,8 +280,6 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
-!/.gitignore
-
 # ignore user usage file
 docker/work/
 preprocess_knock_Python.ipynb
