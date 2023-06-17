@@ -168,6 +168,7 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+docker/work/*.ipynb
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
@@ -280,8 +281,4 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
-# ignore user usage file
-docker/work/
-preprocess_knock_Python.ipynb
-preprocess_knock_SQL.ipynb
-preprocess_knock_R.ipynb
+.gitignore
