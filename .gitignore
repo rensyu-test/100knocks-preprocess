@@ -284,3 +284,6 @@ cython_debug/
 
 # ignore user usage file
 docker/work/
+preprocess_knock_Python.ipynb
+preprocess_knock_SQL.ipynb
+preprocess_knock_R.ipynb
